@@ -36,8 +36,8 @@ No third-party packages are required.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd snake-game-with-highscore
+git clone https://github.com/godwintrav/python-snake-game.git
+cd python-snake-game
 
 # (Optional) create and activate a virtual environment
 python -m venv .venv
